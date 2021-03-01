@@ -22,4 +22,4 @@ public class Chat extends Animal {
     public String toString(){
         return "(" + super.getPoids() + " " + super.getNom() + " " + race + ")";
     }
-}
+} coucou
